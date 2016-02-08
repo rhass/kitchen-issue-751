@@ -1,0 +1,7 @@
+name             'kitchen-issue-751'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures kitchen-issue-751'
+long_description 'Installs/Configures kitchen-issue-751'
+version          '0.1.0'
